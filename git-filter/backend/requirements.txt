@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+httpx
+requests
+networkx
+scipy
+tree-sitter==0.21.3
+tree-sitter-languages==1.10.2
+javalang
+pydriller
+jinja2
+python-dotenv
+ollama
+diskcache
+markdown
+# weasyprint  # Optional: uncomment if installed for PDF support
+TTS  # TinyTTS / Coqui TTS
